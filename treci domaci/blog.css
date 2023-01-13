@@ -1,0 +1,117 @@
+body  
+header {
+  height: 245px;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  background-color: #000000;
+  text-align: center;
+}
+
+.heading-title1 {
+  height: 55px;
+  width: 519px;
+  left: 460px;
+  top: 64px;
+  border-radius: nullpx;
+  font-family: Times New Roman;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 55px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.heading-title2 {
+  height: 28px;
+  width: 315px;
+  left: 562px;
+  top: 131px;
+  border-radius: nullpx;
+  font-family: Times New Roman;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.author {
+  height: 23px;
+  width: 100px;
+  left: 670px;
+  top: 177px;
+  border-radius: nullpx;
+  font-family: Times New Roman;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+h1,
+p {
+  color: #000000;
+}
+
+h1 {
+  height: 41px;
+  width: 272px;
+  left: 351px;
+  top: 378px;
+  border-radius: nullpx;
+}
+
+p {
+  height: 308px;
+  width: 737px;
+  left: 351px;
+  top: 464px;
+  border-radius: nullpx;
+  font-family: Times New Roman;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+
+img {
+  height: 506px;
+  width: 734px;
+  left: 354px;
+  top: 828px;
+  border-radius: 0px;
+}
+
+.catherine-pic {
+  height: 506px;
+  width: 734px;
+  left: 354px;
+  top: 1881px;
+  border-radius: 0px;
+}
+
+.ledoyen-pic {
+  height: 41px;
+  width: 268px;
+  left: 356px;
+  top: 3348px;
+  border-radius: nullpx;
+}
+
+.line2 {
+  height: 0px;
+  width: 735.0108642578125px;
+  left: 352px;
+  top: 3786px;
+  border-radius: nullpx;
+  background: #000000;
+  border: 1px solid #000000;
+}
